@@ -10,3 +10,4 @@ CKEDITOR.editorConfig = function( config ) {
 };
 
 CKEDITOR.dtd.$removeEmpty['span'] = false;
+CKEDITOR.dtd.$removeEmpty['i'] = false;
